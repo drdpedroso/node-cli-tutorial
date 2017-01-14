@@ -1,0 +1,22 @@
+{
+  "name": "node-cli-tutorial",
+  "version": "1.0.0",
+  "description": "Node CLI app for teaching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "hello": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drdpedroso/node-cli-tutorial.git"
+  },
+  "author": "Eduardo Pedroso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drdpedroso/node-cli-tutorial/issues"
+  },
+  "homepage": "https://github.com/drdpedroso/node-cli-tutorial#readme"
+}
