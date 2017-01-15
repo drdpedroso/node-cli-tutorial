@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/drdpedroso/node-cli-tutorial/issues"
   },
-  "homepage": "https://github.com/drdpedroso/node-cli-tutorial#readme"
+  "homepage": "https://github.com/drdpedroso/node-cli-tutorial#readme",
+  "dependencies": {
+    "shelljs": "^0.7.6"
+  }
 }

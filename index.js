@@ -1,2 +1,5 @@
 #!/usr/bin/env node
-console.log('Hello CLI!');
+const shell = require("shelljs");
+
+shell.exec("git clone https://github.com/drdpedroso/ionic-material-skeleton.git");
+
